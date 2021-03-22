@@ -1,7 +1,7 @@
 makesbom
 ==============
 
-Update to makefile2graph in order to process MakeFiles and produce a Software Bill of Materials (SBOM) in the CycloneDX format. This format can be ingestible by platforms such as Dependency-Track in order to observe vulnerabilities in softare dependencies in various languages - however, this program is for C specifically where MakeFile is used for builds. 
+Update to makefile2graph in order to process MakeFiles and produce a Software Bill of Materials (SBOM) in the CycloneDX format. This format can be ingestible by platforms such as Dependency-Track in order to observe vulnerabilities in software dependencies in various languages - however, this program is for C specifically where MakeFile is used for builds. 
 
 makefile2graph
 ==============
